@@ -12,8 +12,6 @@
 
 ## 파일 구조
 - `TMS_#3.py`: 메인 애플리케이션 파일
-- `tranlater_deepL.py`: DeepL 번역 기능
-- `시험.py`: 테스트 파일
 
 ## 기술 스택
 - **Python 3.x**
